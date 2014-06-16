@@ -1,0 +1,11 @@
+{
+  "name": "dom-reset-css-anim",
+  "repo": "nk-components/dom-reset-css-anim",
+  "description": "Reset CSS animation",
+  "version": "0.0.0",
+  "keywords": ["css","animation","reset"],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
